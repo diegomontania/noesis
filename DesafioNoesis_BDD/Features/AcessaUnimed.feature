@@ -1,5 +1,8 @@
 ﻿#language: pt-br
 
+#para funcionamento correto do specflow no visual studio :
+#https://stackoverflow.com/a/60182827
+
 Funcionalidade: Acessar site unimed
 	Teste de acesso do site 'https://www.unimed.coop.br/'
 	Realizar pesquisa  de médicos em uma localidade
